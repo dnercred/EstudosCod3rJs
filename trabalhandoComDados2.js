@@ -13,7 +13,7 @@ console.log(19.9*0.6);
 
 let precoComDesconto = preco * (1-desconto);
 
-console.log(precoComDesconto, 'valor a pagar ');
+console.log(precoComDesconto  'desconto,' 'valor a pagar ');
 
 
 
