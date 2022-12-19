@@ -1,3 +1,9 @@
+
+/*Estudo de Dados # variavaies
+
+pode-se Criar variaveis Com let ou var entre outras formas mais complexas*/
+
+
 var nome = 'DENNER';
 
 var sobrenome = 'SAntos';
@@ -12,3 +18,9 @@ console.log(idade);
 console.log(sobrenome);  //);
 console.log(nome);
 console.log(nome);
+
+
+
+/*Obs E fundamental de importante Definir BOns nomes nas Variavaies funcoes , Entre outras 
+observaçoes importantes*/
+
