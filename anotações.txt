@@ -1,0 +1,15 @@
+Curso de Programação  (DENNER SANTOS)
+
+
+
+### Sentenças de código
+
+È como se fosse  conjunto de  de Frases  de um texto 
+OBS uma senteças de codigo pode no java Script colocar ou nao o ponto e virgula o final da senteças de do codigo 
+
+
+
+
+#### BLoco 
+
+È o agrupamento de Sentenças
